@@ -48,7 +48,7 @@
     <section id="hero">
       <div class="container">
         <div class="text-center pt-5">
-          <img src="@/assets/Feby.jpeg" class="" style="height: 175px; border-radius: 200px" alt="..." />
+          <img src="@/assets/arbim.jpeg" class="" style="height: 175px; border-radius: 200px" alt="..." />
         </div>
 
         <h1 class="mt-3 text-center putih">
@@ -82,7 +82,7 @@
             <div class="col p-5">
               <h3 class="putih text-center pb-3">Profile</h3>
               <div class="text-center ">
-                <img src="@/assets/Feby.jpeg" class="mb-3" style="height: 120px; border-radius: 200px" alt="..." />
+                <img src="@/assets/arbim.jpeg" class="mb-3" style="height: 120px; border-radius: 200px" alt="..." />
               </div>
               <p class="putih pe  ">I was born in Nganjuk, June 26, 2005. I am currently studying at SMK Taruna Bhakti,
                 Depok, with a degree in software engineering. I have the expertise to design a web layout and have
@@ -94,7 +94,7 @@
 
               <div class="row">
                 <div class="col-2">
-                  <HTML />
+                  <HTML href="https://www.instagram.com/arbiiim/" />
                 </div>
                 <div class="col">
                   <label class="putih">HTML</label>
